@@ -1,1 +1,0 @@
-On this small project, I attempted to implement some futher maths I have learnt into python, and simulated some collisisions between oblique 2D spheres that had different radii

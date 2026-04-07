@@ -17,6 +17,10 @@ These projects focus on applying **machine learning** and **physics simulations*
 ### 2. **Elastic 2D Collision Simulator (Pymunk + Pygame)**
    This project demonstrates **elastic collisions** between multiple balls in a 2D space. The simulation uses **Pygame** for graphical rendering and **Pymunk** for the physics simulation, allowing balls to bounce off each other and the walls in a **perfectly elastic** manner.
 
+### 3. **Route Planner Using Streamlit and Netwrokx**
+   An interactive Python application that models a transport network using graph theory to optimise routes under disruption. Stations are represented as nodes and routes as weighted edges, with shortest-path algorithms used to identify the fastest journey.
+Users can simulate delays and dynamically recalculate routes, demonstrating decision-making under uncertainty through an intuitive Streamlit interface.
+
 ---
 
 ## Learning Resources

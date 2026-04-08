@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my repository of Python projects! In this collection, I explore how mathematical concepts learned in **Mathematics** and **Further Mathematics** can be applied to real-world scenarios using **Python**. This project aims to bridge the gap between **theoretical math** and **practical programming** by translating concepts into Python code.
+Welcome to my repository of Python projects! In this collection, I explore how mathematical concepts learned in A-Level **Mathematics** and **Further Mathematics** can be applied to real-world scenarios using **Python**. This Repository aims to bridge the gap between **theoretical math** and **practical programming** by translating concepts into Python code.
 
 These projects focus on applying **machine learning** and **physics simulations** to real-world situations, helping me understand how mathematical ideas can be implemented with code.
 

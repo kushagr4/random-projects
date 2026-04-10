@@ -18,7 +18,7 @@ This repository brings together Python projects that have helped me develop my u
 ### 3. **Route Planner Using Streamlit and Netwrokx**
    This project models a transport network in Python using graph theory, with stations represented as nodes and routes as weighted edges. It helped me develop a better understanding of how algorithms can be used to solve optimisation problems, particularly in situations involving disruption, changing conditions, and real-time decision-making.
 
-### 4. **Elastic 2D Collision Simulator (Pymunk + Pygame)**
+### 4. **Hospital Overload Prediction Dashboard**
    This project uses Python, Streamlit and data analysis tools to examine UK COVID-19 admissions data and forecast short-term pressure on healthcare capacity. It helped me learn more about data cleaning, modelling trends, and using code to build systems that do more than present information by supporting clearer and more practical decisions.
 
 

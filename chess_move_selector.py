@@ -1,7 +1,7 @@
 import chess
 import chess.engine
 
-STOCKFISH_PATH = "/Users/kushagra/Downloads/stockfish/stockfish-macos-m1-apple-silicon"
+STOCKFISH_PATH = "/Users/name/Downloads/stockfish/stockfish-macos-m1-apple-silicon"
 
 def main():
     # creates a new chess board in the normal starting position
